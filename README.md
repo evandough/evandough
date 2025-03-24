@@ -1,8 +1,11 @@
-## Hi There 👋 My name is Evan
-I'm an IT and Cloud enthusiast who loves learning new technologies and collaborating with teams. 
+## Hi there 👋 My name is Evan
+**Cloud Enthusiast | Azure Certified**
 
-- 🔭 Successfully passed the AZ-400 Microsoft DevOps Engineer Expert certification!
-- 🌱 I’m currently learning all things IT & Cloud while documenting the process along the way.
+Passionate about learning new technologies, collaborating with teams, and all things IT. 
+<br>
+I document each project to not only improve my skills but also share the process with others who may be on a similar learning journey.
+
+📚**Follow my journey** as I develop projects and document my learning progress along the way. 
 
 ### Certifications
 - [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/Evan-1096/8FEBB7C6A6BD79E8?sharingId=8F4AD33AE6B55AC5)
