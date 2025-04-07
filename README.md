@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Evan
-**Cloud Enthusiast | Azure Certified**
+**Cloud & IT Enthusiast | Azure Certified**
 
 Passionate about learning new technologies, collaborating with teams, and all things IT. 
 <br>
