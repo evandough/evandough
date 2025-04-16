@@ -7,6 +7,14 @@ I document each project to not only improve my skills but also share the process
 
 📚**Follow my journey** as I develop projects and document my learning progress along the way. 
 
+## ☁️ Cloud Labs
+- [Active Directory & PowerShell Automation](https://github.com/evandough/active-directory-homelab)
+- [Infrastructure as Code (IaC)](https://github.com/evandough/cloud-iac-templates)
+- [Cloud Journey](https://github.com/evandough/Cloud-Journey)
+
+## 🔍 SQL Labs
+- [SQL Projects](https://github.com/evandough/sql-lab)
+
 ### Certifications
 - [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/Evan-1096/8FEBB7C6A6BD79E8?sharingId=8F4AD33AE6B55AC5)
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/Evan-1096/4395B9EE59AEECC2?sharingId=8F4AD33AE6B55AC5)
