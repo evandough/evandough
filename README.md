@@ -14,7 +14,7 @@ I document each project to not only improve my skills but also share the process
 - [Cloud Journey](https://github.com/evandough/Cloud-Journey)
 
 ## 🔍 SQL Labs
-- [SQL Projects](https://github.com/evandough/sql-lab)
+- [SQL Query](https://github.com/evandough/sql-lab)
 
 ## Certifications
 - [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/Evan-1096/8FEBB7C6A6BD79E8?sharingId=8F4AD33AE6B55AC5)
