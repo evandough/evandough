@@ -7,11 +7,14 @@ I document each project to not only improve my skills but also share the process
 
 📚**Follow my journey** as I develop projects and document my learning progress along the way. 
 
+## 🚀 DevOps Labs
+- [KodeKloud - Containers | Linux | Git | Terraform](https://github.com/evandough/kodekloud-notes)
+- [Infrastructure as Code (IaC)](https://github.com/evandough/cloud-iac-templates)
+
 ## ☁️ Cloud Labs
 - [Active Directory & PowerShell Automation](https://github.com/evandough/active-directory-homelab)
-- [Infrastructure as Code (IaC)](https://github.com/evandough/cloud-iac-templates)
-- [KodeKloud - Containers | Linux | Git](https://github.com/evandough/kodekloud-notes)
 - [Cloud Journey](https://github.com/evandough/Cloud-Journey)
+- [Websites Created](https://github.com/evandough/websites-created)
 
 ## 🔍 SQL Labs
 - [SQL Query](https://github.com/evandough/sql-lab)
