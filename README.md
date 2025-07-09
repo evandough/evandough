@@ -12,7 +12,7 @@ I document each project to not only improve my skills but also share the process
 - [Infrastructure as Code (IaC)](https://github.com/evandough/cloud-iac-templates)
 
 ## ☁️ Cloud Labs
-- [Active Directory & PowerShell Automation](https://github.com/evandough/active-directory-homelab)
+- [Automated Enterprise Endpoint Management infrastructure](https://github.com/evandough/enterprise-endpoint-infra)
 - [Cloud Journey](https://github.com/evandough/Cloud-Journey)
 - [Websites Created](https://github.com/evandough/websites-created)
 
