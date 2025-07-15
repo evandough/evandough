@@ -12,7 +12,7 @@ I document each project to not only improve my skills but also share the process
 - [Infrastructure as Code (IaC)](https://github.com/evandough/cloud-iac-templates)
 
 ## ☁️ Cloud 
-- [Automated Enterprise Endpoint Management infrastructure](https://github.com/evandough/enterprise-endpoint-infra)
+- [Automated Enterprise Endpoint Management Infrastructure](https://github.com/evandough/enterprise-endpoint-infra)
 - [100DaysOfCloud](https://github.com/evandough/Cloud-Journey)
 - [Websites Created](https://github.com/evandough/websites-created)
 
