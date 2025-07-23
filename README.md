@@ -17,6 +17,7 @@ I document each project to not only improve my skills but also share the process
 - [Websites Created](https://github.com/evandough/websites-created)
 
 ## 🔍 SQL 
+- [SQL KnowledgeBase](https://github.com/evandough/sql-knowledge-base)
 - [SQL Query](https://github.com/evandough/sql-lab)
 
 ## Certifications
