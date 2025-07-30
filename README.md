@@ -13,8 +13,8 @@ I document each project to not only improve my skills but also share the process
 
 ## ☁️ Cloud 
 - [Automated Enterprise Endpoint Management Infrastructure](https://github.com/evandough/enterprise-endpoint-infra)
-- [100DaysOfCloud](https://github.com/evandough/Cloud-Journey)
 - [Websites Created](https://github.com/evandough/websites-created)
+- [100DaysOfCloud](https://github.com/evandough/Cloud-Journey)
 
 ## 🔍 SQL 
 - [SQL KnowledgeBase](https://github.com/evandough/sql-knowledge-base)
